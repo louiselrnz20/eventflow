@@ -1,4 +1,4 @@
-# EventFlow
+# EventFlow - SJSC Financial Report Analytics
 
 Full-stack event ticketing and financial analytics project built from operational event exports.
 
